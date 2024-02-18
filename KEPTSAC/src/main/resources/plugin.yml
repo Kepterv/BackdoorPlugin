@@ -1,0 +1,4 @@
+name: KEPTSAC
+version: '${project.version}'
+main: main.keptsac.KEPTSAC
+api-version: '1.20'

@@ -1,0 +1,4 @@
+name: KEPTSAC
+version: '1.0-SNAPSHOT'
+main: main.keptsac.KEPTSAC
+api-version: '1.20'
